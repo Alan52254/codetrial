@@ -1,0 +1,23 @@
+{
+  "base": "628237f8126994ed514c6f039bb940c39382c0f7",
+  "head": "568450258e4b20dcaa7aee662d6185e3e01b669e",
+  "pr_text_lines": 499,
+  "large_commits": [
+    {
+      "sha": "568450258e4b20dcaa7aee662d6185e3e01b669e",
+      "text_lines": 499
+    }
+  ],
+  "coverage_complete": true,
+  "unmeasured_commits": [],
+  "required": true,
+  "status": "complete",
+  "diff_hash": "9d69b45faded0360f24f8753bc46660c32400f5a227bb3fd282f112173fa2686",
+  "answer_digest": "ed8b7a58361083a7f6d9f2b67d7e9ce35856409719d68fdc9b2e0a982d71b977",
+  "review_fingerprint": "9000cf5910d5d92934afa6aaf95c3c1d068bb7132fad531d8bff5bb6b1d3da47",
+  "schema_version": 1,
+  "change_id": "Iad56927dac867c3118b8d0ea44e5f010a0fd07b6",
+  "workbench_started": true,
+  "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgxLgQl5Q1A/qV4O5t6+JL3f4GKS\nsVl3VqjHNlMLUfNDUAAAAQY29kZXRyaWFsLXJldmlldwAAAAAAAAAGc2hhNTEyAAAAUwAA\nAAtzc2gtZWQyNTUxOQAAAEAQtzZpzOnpMaV1mX1ANaz/2OlXtGviEu/+i62b7G+G5WZPZ1\nWNWIuqlcJHkEjHUb+QMvQ15Uk6FcM3jhguj+4G\n-----END SSH SIGNATURE-----\n",
+  "key_fingerprint": "SHA256:ZA6yOCm4RwZzkjQLWOik3MaAI8EZw6Ds2KlfkN+Qp/U"
+}
